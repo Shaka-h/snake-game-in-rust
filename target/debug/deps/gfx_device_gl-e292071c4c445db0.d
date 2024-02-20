@@ -1,0 +1,11 @@
+/Users/shaka/projects/Rust/snakeGame/target/debug/deps/gfx_device_gl-e292071c4c445db0.rmeta: /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/shaka/projects/Rust/snakeGame/target/debug/deps/gfx_device_gl-e292071c4c445db0.d: /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs:
+/Users/shaka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs:
